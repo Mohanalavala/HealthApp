@@ -52,3 +52,6 @@ The main purpose of this health app is to keep track on the user health history 
  5.User can modify his personal Information such as height,weight.  
  6.User can create their own challenge or can join the existing challenge.  
  7.User can view data from the previous challenges.  
+
+## ER Diagram for Health App
+![image](C:\Users\s538097\Desktop\HealthApp\A01_ ER Review -  Blank ERD & Data Flow.png)

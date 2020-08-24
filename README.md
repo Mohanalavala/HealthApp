@@ -56,14 +56,5 @@ The main purpose of this health app is to keep track on the user health history 
  6.User can create their own challenge or can join the existing challenge.  
  7.User can view data from the previous challenges.  
 
-## User Stories
-
-1.User can access to steps button so that user can have track on step count on monthly basis.  
-2.User can be able to view the number of minutes the exercise done on monthly basis.  
-3.User can be able to view the track of Records of kilometers based on the data of steps and kcal of the energy burnt.  
-4.Sleep button keeps track on number of hours the user had slept per day will be shown statistically on monthly basis.  
-5.Hydration button is based on the number of litres of water consumed per day on monthly basis.  
-6.Fruits and vegetables consumed in Kcal on monthly basis.
-
 ## ER Diagram for Health App
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png)

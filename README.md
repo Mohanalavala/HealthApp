@@ -53,5 +53,11 @@ The main purpose of this health app is to keep track on the user health history 
  6.User can create their own challenge or can join the existing challenge.  
  7.User can view data from the previous challenges.  
 
+## User Stories
+
+1.User can access to steps button so that user can have track on step count on monthly basis.  
+2.User can be able to view the number of minutes the exercise done on monthly basis.  
+3.
+
 ## ER Diagram for Health App
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png)

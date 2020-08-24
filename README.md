@@ -1,6 +1,4 @@
 # HealthApp
-## Proposal Document
-The main purpose of this health app is to keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables. This app also keeps track on the monthly activity of the user on the options provided in the app. It also shows the daily exercise activity. User can also create challenges or join the existing challenges.
 
 ## Team Members:
 <table style="width:100%;border: 1px solid black;">
@@ -41,5 +39,14 @@ The main purpose of this health app is to keep track on the user health history 
   <td>+16605415793</td>
   </tr>
   <tr>
-
   </table>
+
+  ## User Roles:
+
+-User will create a profile.
+-User can edit the created profile.
+-User redirects to the home page where user should enter Login details.
+-If user forgets the password user can create new password by clicking on "Forget Password".
+-User can modify his personal Information such as height,weight.
+-User can create their own challenge or can join the existing challenge.
+-User can view data from the previous challenges.

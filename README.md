@@ -43,10 +43,10 @@
 
   ## User Roles:
 
--User will create a profile.
--User can edit the created profile.
--User redirects to the home page where user should enter Login details.
--If user forgets the password user can create new password by clicking on "Forget Password".
--User can modify his personal Information such as height,weight.
--User can create their own challenge or can join the existing challenge.
--User can view data from the previous challenges.
+1.User will create a profile.
+2.User can edit the created profile.
+3.User redirects to the home page where user should enter Login details.
+4.If user forgets the password user can create new password by clicking on "Forget Password".
+5.User can modify his personal Information such as height,weight.
+6.User can create their own challenge or can join the existing challenge.
+7.User can view data from the previous challenges.

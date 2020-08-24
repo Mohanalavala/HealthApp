@@ -54,4 +54,4 @@ The main purpose of this health app is to keep track on the user health history 
  7.User can view data from the previous challenges.  
 
 ## ER Diagram for Health App
-![image](C:\Users\s538097\Desktop\HealthApp\A01_ ER Review -  Blank ERD & Data Flow.png)
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png)

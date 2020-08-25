@@ -48,8 +48,9 @@ The main purpose of this health app is to keep track on the user health history 
   
   ## Proposed Screens
 
+  Interface sketches are included in proposed screens folder
 
-  ## User Roles
+ ## User Roles
 
  1.User will create a profile.  
  2.User can edit the created profile.  

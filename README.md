@@ -65,4 +65,4 @@ The main purpose of this health app is to keep track on the user health history 
 We have used most of the frame layouts using Northwest logo.Opening page displays step count, number of hours slept, amount of water, food consumed in kcals.
 
 ## RFP link
-![rfp](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
+[rfp](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)

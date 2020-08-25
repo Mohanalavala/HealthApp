@@ -2,6 +2,26 @@
 ## Proposal Document
 The main purpose of this health app is to keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables. This app also keeps track on the monthly activity of the user on the options provided in the app. It also shows the daily exercise activity. User can create challenges or join the present challenge.
 
+## Link to repository :
+
+[Repo](https://github.com/Mohanalavala/HealthApp)
+
+## Link to published site :
+
+[website](https://mohanalavala.github.io/HealthApp/)
+
+## Cost Estimation
+
+[Cost estimate](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimation.xlsx)
+
+## Sample data
+
+[Sample data file](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20Database.xlsx)
+
+## Schedule
+
+[Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/Schedule%20Management.xlsx)
+
 ## Jira Dashboard
 [Dashboard](https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2)
 
@@ -14,15 +34,15 @@ The main purpose of this health app is to keep track on the user health history 
   Bharath Kumar Gandhasiri - Front end Developer
 
   Tejaswi Reddy Kandula    - Full Stack Developer
-  
+
   Rohitha Reddy Meda       - Database Engineer
  
   
-  ## Proposed Screens
+## Proposed Screens
 
   Interface sketches are included in proposed screens folder
 
- ## User Roles
+## User Roles
 
  1.User will create a profile.  
  2.User can edit the created profile.  

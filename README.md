@@ -61,3 +61,5 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## ER Diagram for Health App
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png)
+
+We have used most of the frame layouts using Northwest logo.Opening page displays step count, number of hours slept, amount of water, food consumed in kcals.

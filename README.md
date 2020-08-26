@@ -36,32 +36,32 @@ The main purpose of this health app is to keep track on the user health history 
   
 ## Proposed Screens
 
-### User SignUp  
+### User SignUp   
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png?raw=true)  
   
-### User Login  
+### User Login   
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png?raw=true)  
 
-### Home  
+### Home   
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png?raw=true)  
 
-### Daily Count
+### Daily Count  
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png?raw=true)   
 
-### Activity  
+### Activity   
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png?raw=true)  
   
-  ### User Details
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png?raw=true)
+### User Details  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png?raw=true)
 
-  ### Challenges  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png?raw=true) 
+### Challenges    
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png?raw=true) 
 
-  ### Admin Login  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png?raw=true) 
+### Admin Login  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png?raw=true) 
 
-  ### Admin Home
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  
+### Admin Home  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  
 
  
 ## User Roles

@@ -20,7 +20,7 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## Schedule
 
-[Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/Schedule%20Management.xlsx)
+![Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/ScheduleManagement.png)
 
 ## Jira Dashboard
 [Dashboard](https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2)

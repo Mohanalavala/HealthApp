@@ -14,22 +14,6 @@ The main purpose of this health app is to keep track on the user health history 
 
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimation.png)
 
-## Sample data
-
-[Sample data Link](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20sample%20data.xlsx)
-
-### User Entity
-![User Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/UserEntity.png)
-
-### Admin Entity
-![Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/AdminEntity.png)
-
-### Exercise Entity
-![Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ExerciseEntity.png)
-
-### Challenges Entity
-![Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ChallanesEntity.png)
-
 ## Schedule
 
 ![Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/ScheduleManagement.png)
@@ -93,6 +77,22 @@ The main purpose of this health app is to keep track on the user health history 
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png?raw=true)
 
 We have used most of the frame layouts using Northwest logo.Opening page displays step count, number of hours slept, amount of water, food consumed in kcals.
+
+## Sample data
+
+[Sample data Link](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20sample%20data.xlsx)
+
+### User Entity
+![User Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/UserEntity.png)
+
+### Admin Entity
+![Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/AdminEntity.png)
+
+### Exercise Entity
+![Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ExerciseEntity.png)
+
+### Challenges Entity
+![Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ChallanesEntity.png)
 
 ## RFP link
 [Request For Proposal](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)

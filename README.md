@@ -7,7 +7,7 @@ The main purpose of this health app is to keep track on the user health history 
 [Repo](https://github.com/Mohanalavala/HealthApp)
 
 ## Link to published site :
-ed
+
 [website](https://mohanalavala.github.io/HealthApp/)
 
 ## Cost Estimation

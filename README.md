@@ -16,6 +16,8 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## Sample data
 
+[Sample data Link](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20sample%20data.xlsx)
+
 ### User Entity
 ![User Entity](https://github.com/Mohanalavala/HealthApp/blob/master/UserEntity.png)
 

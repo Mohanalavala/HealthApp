@@ -37,31 +37,31 @@ The main purpose of this health app is to keep track on the user health history 
 ## Proposed Screens
 
   ### User SignUp  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png)  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png?raw=true)  
   
   ### User Login  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png)
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png?raw=true)
 
   ### Home  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png)  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png?raw=true)  
 
   ### Daily Count
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png)  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png?raw=true)  
 
   ### Activity  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png)  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png?raw=true)  
   
   ### User Details
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png)
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png?raw=true)
 
   ### Challenges  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png) 
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png?raw=true) 
 
   ### Admin Login  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png) 
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png?raw=true) 
 
   ### Admin Home
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png)  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  
 
  
 ## User Roles
@@ -83,16 +83,16 @@ We have used most of the frame layouts using Northwest logo.Opening page display
 [Sample data Link](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20sample%20data.xlsx)
 
 ### User Entity
-![User Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/UserEntity.png)
+![User Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/UserEntity.png?raw=true)
 
 ### Admin Entity
-![Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/AdminEntity.png)
+![Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/AdminEntity.png?raw=true)
 
 ### Exercise Entity
-![Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ExerciseEntity.png)
+![Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ExerciseEntity.png?raw=true)
 
 ### Challenges Entity
-![Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ChallanesEntity.png)
+![Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/SampleData%20Screens/ChallanesEntity.png?raw=true)
 
 ## RFP link
 [Request For Proposal](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)

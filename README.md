@@ -1,13 +1,13 @@
 # HealthApp
 ## Proposal Document
-The main purpose of this health app is to keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables. This app also keeps track on the monthly activity of the user on the options provided in the app. It also shows the daily exercise activity. User can create challenges or join the present challenge.
+The main purpose of this health app is to keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables. This app also keeps track on the monthly activity of the user on the options provided in the app. It also shows the daily exercise activity. User can create challenges or join the present challenge. This app can devloped by 5 devlopers.
 
 ## Link to repository :
 
 [Repo](https://github.com/Mohanalavala/HealthApp)
 
 ## Link to published site :
-
+ed
 [website](https://mohanalavala.github.io/HealthApp/)
 
 ## Cost Estimation

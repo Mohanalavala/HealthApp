@@ -12,14 +12,14 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## Cost Estimation
 
-![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimation.png)
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimation.png?raw=true)
 
 ## Schedule
 
-![Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/ScheduleManagement.png)
+![Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/ScheduleManagement.png?raw=true)
 
 ## Jira Dashboard
-![Dashboard](https://github.com/Mohanalavala/HealthApp/blob/master/JiraDashboard.png)
+![Dashboard](https://github.com/Mohanalavala/HealthApp/blob/master/JiraDashboard.png?raw=true)
 
 ## Team Members
 
@@ -36,20 +36,20 @@ The main purpose of this health app is to keep track on the user health history 
   
 ## Proposed Screens
 
-  ### User SignUp  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png?raw=true)  
+### User SignUp  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png?raw=true)  
   
-  ### User Login  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png?raw=true)
+### User Login  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png?raw=true)  
 
-  ### Home  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png?raw=true)  
+### Home  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png?raw=true)  
 
-  ### Daily Count
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png?raw=true)  
+### Daily Count
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png?raw=true)   
 
-  ### Activity  
-  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png?raw=true)  
+### Activity  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png?raw=true)  
   
   ### User Details
   ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png?raw=true)

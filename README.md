@@ -81,14 +81,13 @@ The main purpose of this health app is to keep track on the user health history 
 
  
 ## User Roles
-
- 1.User will create a profile.  
- 2.User can edit the created profile.  
- 3.User redirects to the home page where user should enter Login details.  
- 4.If user forgets the password user can create new password by clicking on "Forget Password".  
- 5.User can modify his personal Information such as height,weight.  
- 6.User can create their own challenge or can join the existing challenge.  
- 7.User can view data from the previous challenges.  
+1. As a user, I'll create my profile in the app.    
+1. As a user, I want to login to the app. 
+1. As a user, if I forget the password I can create new password by clicking on "Forget Password".  
+1. As a User, I can modify my personal Information by clicking on "ME"
+1. As a User, I can create my own challenges or can join the existing challenge.  
+1. As a User, I can view data from the previous challenges.
+1. As a admin, I can manage users and challenges.
 
 ## ER Diagram for Health App
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png?raw=true)

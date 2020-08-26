@@ -17,13 +17,13 @@ The main purpose of this health app is to keep track on the user health history 
 ## Sample data
 
 ### Admin Entity
-[Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/AdminEntity.png)
+![Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/AdminEntity.png)
 
 ### Excercise Entity
-[Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ExerciseEntity.png)
+![Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ExerciseEntity.png)
 
 ### Challenges Entity
-[Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ChallanesEntity.png)
+![Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ChallanesEntity.png)
 
 ## Schedule
 

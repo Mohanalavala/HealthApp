@@ -16,14 +16,21 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## Sample data
 
-[Sample data file](https://github.com/Mohanalavala/HealthApp/blob/master/Health%20App%20Database.xlsx)
+### Admin Entity
+[Admin Entity](https://github.com/Mohanalavala/HealthApp/blob/master/AdminEntity.png)
+
+### Excercise Entity
+[Excercise Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ExerciseEntity.png)
+
+### Challenges Entity
+[Challenges Entity](https://github.com/Mohanalavala/HealthApp/blob/master/ChallanesEntity.png)
 
 ## Schedule
 
 ![Schedule management](https://github.com/Mohanalavala/HealthApp/blob/master/ScheduleManagement.png)
 
 ## Jira Dashboard
-[Dashboard](https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2)
+[Dashboard](https://github.com/Mohanalavala/HealthApp/blob/master/JiraDashboard.png)
 
 ## Team Members
 

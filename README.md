@@ -40,8 +40,34 @@ The main purpose of this health app is to keep track on the user health history 
   
 ## Proposed Screens
 
-  Interface sketches are included in proposed screens folder
+  ### User SignUp  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20signup.png)  
 
+  ### User Login  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Login.png)
+
+  ### Home  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png)  
+
+  ### Daily Count
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png)  
+
+  ### Activity  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Activity.png)  
+  
+  ### User Details
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20Details.png)
+
+  ### Challenges  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png) 
+
+  ### Admin Login  
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png) 
+
+  ### Admin Home
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png)  
+
+ 
 ## User Roles
 
  1.User will create a profile.  

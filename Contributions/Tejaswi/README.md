@@ -42,13 +42,17 @@
 
 ## Half day 1  
 
+Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
+
 - I accepted the invitation sent from one of the team member related to Health App and I pulled repo to the Local Machine.
 - I accepted the Jira invitation Sent from the team member and created the account from Jira.I started working on the tasks assigned to me by one of my team member.
 - Joined a zoom meeting on 08/21/2020 at 10AM and discussed about the client requirements.
 - I also started working on adding the Team members in the Readme.md file and i have started my commits.  
 - Link for repository: https://github.com/Mohanalavala/HealthApp/commit/89443de4196750e561c3dd8b2220854c5ef696e9
 
-## Half day 2
+## Half day 2  
+
+Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
 
 - Joined a zoom meeting on 08/23/2020 at 10 AM and discussed about the design and plan for our project.
 - We also discussed about proposed screens.How a user can create an account and after that user should be able to login to the account and keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables.
@@ -57,6 +61,8 @@
 - Link for repository: https://github.com/Mohanalavala/HealthApp/commit/83501837c0de8c8848d226c3f909077a6165b12c
 
 ## Half day 3
+
+Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - Joined a zoom meeting on 08/25/2020 at 10AM we scheduled a zoom meeting to discuss about the comments mentioned by Dr.Badami.  
 - Link: https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31010

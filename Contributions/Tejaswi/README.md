@@ -1,4 +1,4 @@
-# Module1- Individual 1  
+# Module1 - Individual 1  
 
 ## Attendance:
 <table style="width:100%;border: 1px solid black;">

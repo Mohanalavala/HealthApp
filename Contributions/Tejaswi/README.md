@@ -9,7 +9,7 @@
 <tr>
 <td>08/19/2020</td>
 <td>Class Cancelled</td>
-<td> 4 hours</td>
+<td>N/A</td>
 <td>N/A</td>
 </tr>
 <tr>
@@ -33,7 +33,10 @@
 <tr>
 <td>08/28/2020</td>
 <td>In-person</td>
-<td> 4 hours</td>
+<td></td>
 <td>Clarified doubts regarding presentation and checked the equipments</td>
 </tr>
 </table>
+
+
+

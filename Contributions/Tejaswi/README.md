@@ -33,7 +33,7 @@
 <tr>
 <td>08/28/2020</td>
 <td>In-person</td>
-<td></td>
+<td>N/A</td>
 <td>Clarified doubts regarding presentation and checked the equipments</td>
 </tr>
 </table>

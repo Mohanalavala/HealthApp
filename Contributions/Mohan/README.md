@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td>08/28/2020</td>
-<td>We followed</td>
+<td>We followed Videos</td>
 <td> </td>
 <td> </td>
 </tr>

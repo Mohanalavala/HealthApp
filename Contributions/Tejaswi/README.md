@@ -37,6 +37,14 @@
 <td>Clarified doubts regarding presentation and checked the equipments</td>
 </tr>
 </table>
+## Half day 1  
+
+I accepted the invitation sent from the team member related to Health App and I pulled repo to the Local Machine.
+I accepted the Jira invitation Sent from the team member and created the account from Jira.I started working on the tasks assigned to me by one of my team member.
+Joined a zoom meeting on 08/21/2020 and discussed about the client requirements.
+I also started working on adding the Team members in the Readme.md file and i have started my commits.  
+
+Link for repository: https://github.com/Mohanalavala/HealthApp/commit/89443de4196750e561c3dd8b2220854c5ef696e9
 
 
 

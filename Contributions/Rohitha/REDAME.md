@@ -42,3 +42,10 @@
 We all together scheduled a zoom meeting on 08/21/2020 at 10AM to discuss about the client requirements. One of our team member created a repository named Health App and included me as contributor. Invited me to accept the link, I have accepted the link and started working on the project.
 I have created account in Jira. One of our team member assigned me a task in Jira, I have accepted the task and finished it.
 I have gone through the RFP provided by Dr.Badami to get an overview about the requirements and to get an idea about how to design an app.
+
+## Half day 2
+On Day2 we scheduled a zoom meeting on 08/23/2020 at 10AM to discuss about the design and plan of our project. We also discussed about cost estimation of the project. After finalising the designa nd plan of the project, I have started working on RFP. I have cloned the repo to my machine and pulled it. I have written te project proposal in READme. Committed my work and pushed it.  
+Link for repo: https://github.com/Mohanalavala/HealthApp/commit/b15e51e509087966959518f89ca35961587e8aab
+I have also worked on cost estimation of the project and done the cost estimation. I have sent the report to one my team member Harish to review it and to submit it.
+
+## Half day 3

@@ -37,6 +37,7 @@
 <td>Clarified doubts regarding presentation and checked the equipments</td>
 </tr>
 </table>
+
 ## Half day 1  
 
 I accepted the invitation sent from one of the team member related to Health App and I pulled repo to the Local Machine.

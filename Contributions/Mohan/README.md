@@ -63,9 +63,9 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - Joined a zoom meeting to discuss about the comments mentioned by Dr.Badami.  
-- Link: https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30982
+- Link : https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30982
 - Updated the changes as per comments mentioned.
-- Link: 
+- Link : 
 
 
 

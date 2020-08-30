@@ -56,6 +56,13 @@ I updated the User Roles in the Readme.md and committed the changes.There are fe
 
 Link for repository: https://github.com/Mohanalavala/HealthApp/commit/83501837c0de8c8848d226c3f909077a6165b12c
 
+## Half day 3
+
+Joined a zoom meeting on 08/25/2020 at 10AM we scheduled a zoom meeting to discuss about the comments mentioned by Dr.Badami.  
+Link: https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31010
+Updated the changes as per comments mentioned.
+Link: https://github.com/Mohanalavala/HealthApp/commit/0d473956c07cd70eb7bdae6fe37ced9d5e5a4a6c
+
 
 
 

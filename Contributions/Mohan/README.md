@@ -1,4 +1,9 @@
 # Module1 Individual 1
+
+Hello, I am Mohan Krishna Alvala. Team Lead of the Group 2 of project Health App, Clients Dr. Badami and Dr. Rhonda Beemer
+
+We have discussed the requirements in a Zoom session and finalized a few tables. I have created an ER model based on the discussion. Later we made some changes to the ER model. In the ER diagram, I have taken Admin, User, Challenges, and Exercise entities. In each entity, I have added attributes based on requirements.
+
 ## Attendance
 <table style="width:100%;border: 1px solid black;">
 <tr>

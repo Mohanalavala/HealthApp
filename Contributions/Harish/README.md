@@ -51,13 +51,13 @@
 
  ## Half day 2-08/24/20
 
- 1.I have joined a zoom meeting on 08/23/2020 at 10 AM to discuss about design and plan for project.
+ 1. I have joined a zoom meeting on 08/23/2020 at 10 AM to discuss about design and plan for project.
  
  2. As per discussion, I have created sample data for database and added to team repo.  
  * https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a  
  
-3. Created schedule management excel file and added to team repo:
-* https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
+ 3. Created schedule management excel file and added to team repo.  
+ * https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
 
  ## Half day 3-08/26/20
 

@@ -1,5 +1,7 @@
 # Individual Contribution - Module 1
 
+ I'm Harish Thadka, Project manager of Health app project.
+
 ## Attendance (list the class periods you attended)
 
 <table style="width:100%;border: 1px solid black;">
@@ -43,9 +45,9 @@
 
  ## Half day 1-08/21/20
 
- Accepted invitation and joined in team repo.
- Link to repo: https://github.com/Mohanalavala/HealthApp
- Joined in zoom metting to dicuss about read for proposal requirements.
+ 1. Accepted invitation and joined in team repo.  
+ * Link to repo: https://github.com/Mohanalavala/HealthApp  
+ 1. Joined a zoom meeting on 08/21/2020 at 10AM and discussed about the client requirements. 
 
  ## Half day 2-08/24/20
 

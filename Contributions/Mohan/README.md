@@ -55,7 +55,8 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Created the Health App dashboard in Jira and sent invitations links to team members.  
 - Joined in the Zoom meeting to discuss the requirements.
 
-Commits:
+Commits: 
+
 https://github.com/Mohanalavala/HealthApp/commit/232560a5358d2adbcf225c8287312d1a9593cdae
 
 https://github.com/Mohanalavala/HealthApp/commit/e8189a60dcfa00d1b824788f7507a3f906ed4c7e
@@ -74,10 +75,12 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - We have discussed the ER diagram requirements in the Zoom session.
 - Created entities in fluid charts and added attributes to those entities.
 - Made few changes to the tables and added more attributes.
-- ER Diagram Link:
+- ER Diagram Link: 
+
 https://github.com/Mohanalavala/HealthApp/blob/master/A01_%20ER%20Review%20-%20%20Blank%20ERD%20%26%20Data%20Flow.png
 
-Commits:
+Commits: 
+
 https://github.com/Mohanalavala/HealthApp/commit/219c8e1a64c9fa4bdd2e88d9f59e6dc3b2903326
 
 https://github.com/Mohanalavala/HealthApp/commit/698a42f1aaa90264093452982814bdd62a8a647f
@@ -93,10 +96,12 @@ https://github.com/Mohanalavala/HealthApp/commit/22e53a0f30b526f7751cce56c632111
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - Joined a Zoom meeting to discuss about the comments mentioned by Dr.Badami.  
-- Link : https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30982
+- Link :  
+https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30982
 - Updated the changes as per comments mentioned.
 
-Commits:
+Commits: 
+
 https://github.com/Mohanalavala/HealthApp/commit/6e71590437837595ce5ef57fe75cec3545750cf2
 
 https://github.com/Mohanalavala/HealthApp/commit/34b3a57570ef597c5c970a5d4f1379b8763d917b

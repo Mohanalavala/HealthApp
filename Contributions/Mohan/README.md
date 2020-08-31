@@ -55,6 +55,13 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Created the Health App dashboard in Jira and sent invitations links to team members.  
 - Joined in the Zoom meeting to discuss the requirements.
 
+Repository Link: 
+https://github.com/Mohanalavala/HealthApp
+
+Jira Link: 
+
+https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2
+
 Commits: 
 
 https://github.com/Mohanalavala/HealthApp/commit/232560a5358d2adbcf225c8287312d1a9593cdae

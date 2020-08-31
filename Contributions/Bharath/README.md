@@ -11,31 +11,31 @@ Worth 200 points
 <tr>
 <td>08/19/2020</td>
 <td>Class Cancelled</td>
-<td>N/A</td>
-<td>N/A</td>
+<td></td>
+<td>Followed the instructions of professor and worked on my own</td>
 </tr>
 <tr>
 <td>08/21/2020</td>
 <td>Followed</td>
 <td> 4 hours</td>  
-<td>Gone through the client requirements</td> 
+<td>Gone through the client requirements and RFP</td> 
 </tr>
 <tr>
 <td>08/24/2020</td>
 <td>In-person</td>
 <td> 4 hours</td>
-<td>worked on the project proposal</td>
+<td>project proposal</td>
 </tr>
 <tr>
 <td>08/26/2020</td>
 <td>Followed</td>
 <td> 4 hours</td>
-<td>A meeting was held with our project team members to discuss about project review version</td>
+<td>Worked on project review version</td>
 </tr>
 <tr>
 <td>08/28/2020</td>
 <td>Followed</td>
-<td>N/A </td>
+<td> </td>
 <td>Checked Equipment for presentation</td>
 </tr>
 </table>

@@ -42,8 +42,17 @@ Worth 200 points
 ##Half day 1:
 Time allotted 4 hours: Worth 300 points
 •	A zoom meeting was held on 08/21/2020 at 10AM to discuss about the client requirements.
+
 •	Created an account in Jira. I accepted the GitHub repo invitation and Jira invitation sent by our team lead to collaborate on the Health App.
--[https://github.com/Mohanalavala/HealthApp]
--[https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2]
+
+GitHub repo link-[https://github.com/Mohanalavala/HealthApp]
+
+Jira link-[https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2]
+
+I read the RFP of Health and wellness app to get an overview of the project and requirements provided by Dr. Rhonda Bheemer (Client)
+
+RFP link -[https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md]
+
+
 
 

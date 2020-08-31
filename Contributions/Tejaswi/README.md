@@ -59,7 +59,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - User can create challenges or join the present challenge where user can be able to view daily exercise activity.
 - I updated the User Roles in the Readme.md and committed the changes.There are few changes in the user Roles.Updated them and committed the changes.
 - Link for repository: https://github.com/Mohanalavala/HealthApp/commit/83501837c0de8c8848d226c3f909077a6165b12c
--  Tejaswi's Total Commits for Project Proposal,Project Review,Individual Module [Commits](https://github.com/Mohanalavala/HealthApp/commits?author=Teju2404)
+-  Tejaswi's Total Commits for Project Proposal,Project Review,Individual Module. [Commits](https://github.com/Mohanalavala/HealthApp/commits?author=Teju2404)
 
 ## Half Day 3
 

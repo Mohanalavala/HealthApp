@@ -75,6 +75,18 @@ Time allotted 4 hours: Worth 300 points
 - Link to my commits:
 
   https://github.com/Mohanalavala/HealthApp/commits/master?after=babd4845fe7a23f39d7395fafeaae0b9e09365b2+69&branch=master
+  
+ ## Half day 3:
+ 
+Time allotted 4 hrs: Worth 300 points
+
+1) A zoom meeting was held on 08/25/2020 at 10AM by our group to discuss about the comments mentioned by Dr.Badami.
+
+- https://nwmissouri.instructure.com/courses/32360/assignments/415542
+ 
+
+
+
 
 
 

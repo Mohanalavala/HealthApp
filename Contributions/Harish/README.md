@@ -1,3 +1,5 @@
+# Individual Contribution - Module 1
+
 ## Attendance (list the class periods you attended)
 
 Date    Task  

@@ -11,7 +11,7 @@ Worth 200 points
 <tr>
 <td>08/19/2020</td>
 <td>Class Cancelled</td>
-<td> </td>
+<td>N/A</td>
 <td>N/A</td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ Worth 200 points
 <tr>
 <td>08/28/2020</td>
 <td>Followed</td>
-<td> </td>
-<td> </td>
+<td>N/A </td>
+<td>Checked Equipment</td>
 </tr>
 </table>

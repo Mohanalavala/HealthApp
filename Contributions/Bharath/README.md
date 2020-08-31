@@ -39,19 +39,36 @@ Worth 200 points
 <td>Checked Equipment for presentation</td>
 </tr>
 </table>
-##Half day 1:
+
+## Half day 1:
+
 Time allotted 4 hours: Worth 300 points
-•	A zoom meeting was held on 08/21/2020 at 10AM to discuss about the client requirements.
 
-•	Created an account in Jira. I accepted the GitHub repo invitation and Jira invitation sent by our team lead to collaborate on the Health App.
+1) A zoom meeting was held on 08/21/2020 at 10AM to discuss about the client requirements.
 
-GitHub repo link-[https://github.com/Mohanalavala/HealthApp]
+2)	Created an account in Jira. I accepted the GitHub repo invitation and Jira invitation sent by our team lead to collaborate on the Health App.
 
-Jira link-[https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2]
+- GitHub repo link: https://github.com/Mohanalavala/HealthApp
 
-I read the RFP of Health and wellness app to get an overview of the project and requirements provided by Dr. Rhonda Bheemer (Client)
+- Jira link: https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2
 
-RFP link -[https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md]
+3) I read the RFP of Health and wellness app to get an overview of the project and requirements provided by Dr. Rhonda Bheemer (Client)
+
+- RFP link : https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md
+
+## Half day 2:
+
+Time allotted 4 hours: Worth 300 points
+
+1) A zoom meeting was held on 08/23/2020 at 10AM to discuss about the design, features and plan of our project. 
+
+2) Based upon their area of interest and skills of everyone, a work was assigned to each team member in Jira. As I am interested in designing, UI sketches was assigned to me.
+
+3) Initially I made the overview of UI sketches with help of my teammate Tejaswi and designed nine screens. As the Launch screen is the most important thing, I kept a lot of time mainly on it. However, UI sketches are one of vital part of any application.
+
+4) I designed the UI sketches by getting the best out of us and committed the UI sketches (proposed screens) as a folder into repository.
+
+
 
 
 

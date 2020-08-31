@@ -36,6 +36,14 @@ Worth 200 points
 <td>08/28/2020</td>
 <td>Followed</td>
 <td>N/A </td>
-<td>Checked Equipment</td>
+<td>Checked Equipment for presentation</td>
 </tr>
 </table>
+##Half day 1:
+Time allotted 4 hours: Worth 300 points
+•	A zoom meeting was held on 08/21/2020 at 10AM to discuss about the client requirements.
+•	Created an account in Jira. I accepted the GitHub repo invitation and Jira invitation sent by our team lead to collaborate on the Health App.
+-[https://github.com/Mohanalavala/HealthApp]
+-[https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2]
+
+

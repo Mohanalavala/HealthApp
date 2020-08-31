@@ -1,10 +1,11 @@
 # Module1 Individual 1
 
-Hello, I am Mohan Krishna Alvala. Team Lead of the Group 2 of project Health App, Clients Dr. Badami and Dr. Rhonda Beemer
+Hello, I am Mohan Krishna Alvala. Team Lead of the Group 2 of project Health App, Clients Dr. Badami and Dr. Rhonda Beemer.
 
 We have discussed the requirements in a Zoom session and finalized a few tables. I have created an ER model based on the discussion. Later we made some changes to the ER model. In the ER diagram, I have taken Admin, User, Challenges, and Exercise entities. In each entity, I have added attributes based on requirements.
 
 ## Attendance
+
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Date of class attended</th>	
@@ -58,7 +59,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-- We have discussed the requirements in a Zoom session and finalized a few tables. I have created an ER model based on the discussion. Later we made some changes to the ER model. In the ER diagram, I have taken Admin, User, Challenges, and Exercise entities. In each entity, I have added attributes based on requirements.
+- We have discussed the requirements in a Zoom session and finalized a few tables. I have created an ER model based on the discussion. Later we made some changes to the ER   model. In the ER diagram, I have taken Admin, User, Challenges, and Exercise entities. In each entity, I have added attributes based on requirements.
 - We have discussed the ER diagram requirements in the Zoom session.
 - Created entities in fluid charts and added attributes to those entities.
 - Made few changes to the tables and added more attributes.
@@ -67,7 +68,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-- Joined a zoom meeting to discuss about the comments mentioned by Dr.Badami.  
+- Joined a Zoom meeting to discuss about the comments mentioned by Dr.Badami.  
 - Link : https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30982
 - Updated the changes as per comments mentioned.
 - Link : 

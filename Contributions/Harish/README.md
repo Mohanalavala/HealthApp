@@ -47,23 +47,27 @@
 
  1. Accepted invitation and joined in team repo.  
  * Link to repo: https://github.com/Mohanalavala/HealthApp  
- 1. Joined a zoom meeting on 08/21/2020 at 10AM and discussed about the client requirements. 
+ 2. I have joined a zoom meeting on 08/21/2020 at 10AM to discuss about client requirements. 
 
  ## Half day 2-08/24/20
 
- 1. As per discussion, I have created sample data for database and added to repo:
- * https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
-
- 2. Created schedule management excel file and added to repo:
+ 1.I have joined a zoom meeting on 08/23/2020 at 10 AM to discuss about design and plan for project.
+ 
+ 2. As per discussion, I have created sample data for database and added to team repo.  
+ * https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a  
+ 
+3. Created schedule management excel file and added to team repo:
 * https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
 
  ## Half day 3-08/26/20
 
-1. Updated User roles and commited to repo:
+1. I have joined a zoom meeting on 08/25/2020 at 10AM to discuss about the comments mentioned by Dr.Badami.
+
+2. As per comments, Updated User roles and commited to team repo.
 * https://github.com/Mohanalavala/HealthApp/commit/8c409912fcb1d5f259a4d814a146c4267363149b
 
-2. updated proposal document and commited to repo:
+3. Updated proposal document and commited to team repo:
 * https://github.com/Mohanalavala/HealthApp/commit/d372bbb92fec15c764914056e9f6c243facc3a14
 
-3. updated readme.me file as pics not displaying in published site so I have fixed and commited to repo
+4. Updated readme.me file as pics not displaying in published site so I have fixed and commited to repo
 * https://github.com/Mohanalavala/HealthApp/commit/02123861abfd62ad0efb2b173e9c1d0620c122ec

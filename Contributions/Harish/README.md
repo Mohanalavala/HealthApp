@@ -64,7 +64,7 @@
 
  ## Half day 3-08/26/20
 
-1. I have joined a zoom meeting on 08/25/2020 at 10AM to discuss about the comments mentioned by Dr.Badami.
+1. I have joined a zoom meeting on 08/25/2020 at 10AM to discuss about comments mentioned by Dr.Badami.
 
 2. As per comments, Updated User roles and commited to team repo:
 * https://github.com/Mohanalavala/HealthApp/commit/8c409912fcb1d5f259a4d814a146c4267363149b

@@ -1,4 +1,4 @@
-# Module1 Individual Contributions
+# Module1 - Individual Contributions
 ## Attendance
 Worth 200 points
 <table style="width:100%;border: 1px solid black;">

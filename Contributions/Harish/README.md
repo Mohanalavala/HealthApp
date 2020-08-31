@@ -45,9 +45,12 @@
 
  ## Half day 1-08/21/20
 
- 1. Accepted invitation and joined in team repo:  
- * Link to repo: https://github.com/Mohanalavala/HealthApp  
- 2. I have joined a zoom meeting on 08/21/2020 at 10AM to discuss about client requirements. 
+ 1. Accepted invitation and joined in team repo:   
+ * Link to repo: https://github.com/Mohanalavala/HealthApp 
+ 
+ 2. Accepted jira invitation and started working on assigned task.
+ 
+ 3. I have joined a zoom meeting on 08/21/2020 at 10AM to discuss about client requirements. 
 
  ## Half day 2-08/24/20
 

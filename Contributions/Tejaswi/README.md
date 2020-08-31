@@ -42,7 +42,7 @@
 
 ## Half Day 1  
 
-Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
 
 - I accepted the invitation sent from one of the team member related to Health App and I pulled repo to the Local Machine.
 - I accepted the Jira invitation Sent from the team member and created the account from Jira.I started working on the tasks assigned to me by one of my team member.
@@ -52,7 +52,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 ## Half Day 2  
 
-Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
 
 - Joined a zoom meeting on 08/23/2020 at 10 AM and discussed about the design and plan for our project.
 - We also discussed about proposed screens.How a user can create an account and after that user should be able to login to the account and keep track on the user health history such as daily step count done by the user, number of hours slept, amount of water consumed in litres, amount of food consumed(Kcal) in the form of fruits and vegetables.
@@ -62,7 +62,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 ## Half Day 3
 
-Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - Joined a zoom meeting on 08/25/2020 at 10AM we scheduled a zoom meeting to discuss about the comments mentioned by Dr.Badami.  
 - Link to comments: https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31010

@@ -1,6 +1,6 @@
 # Module1 - Individual 1  
 
-## Attendance:
+## Attendance
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Date of class attended</th>	
@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-## Half day 1  
+## Half Day 1  
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
 
@@ -50,7 +50,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - I also started working on adding the Team members in the Readme.md file and i have started my commits.  
 - Link for repository: https://github.com/Mohanalavala/HealthApp/commit/89443de4196750e561c3dd8b2220854c5ef696e9
 
-## Half day 2  
+## Half Day 2  
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points  
 
@@ -60,7 +60,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - I updated the User Roles in the Readme.md and committed the changes.There are few changes in the user Roles.Updated them and committed the changes.
 - Link for repository: https://github.com/Mohanalavala/HealthApp/commit/83501837c0de8c8848d226c3f909077a6165b12c
 
-## Half day 3
+## Half Day 3
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 

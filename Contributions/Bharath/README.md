@@ -83,6 +83,11 @@ Time allotted 4 hrs: Worth 300 points
 1) A zoom meeting was held on 08/25/2020 at 10AM by our group to discuss about the comments mentioned by Dr.Badami.
 
 - https://nwmissouri.instructure.com/courses/32360/assignments/415542
+
+ 2) Tejaswi and I together worked on proposed screens, by updating the screens in a markdown file.  
+
+ - https://github.com/Mohanalavala/HealthApp/commit/0d473956c07cd70eb7bdae6fe37ced9d5e5a4a6c
+
  
 
 

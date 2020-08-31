@@ -68,6 +68,14 @@ Time allotted 4 hours: Worth 300 points
 
 4) I designed the UI sketches by getting the best out of us and committed the UI sketches (proposed screens) as a folder into repository.
 
+- Proposed screens Folder link: 
+
+  https://github.com/Mohanalavala/HealthApp/tree/master/Proposed%20Screens
+
+- Link to my commits:
+
+  https://github.com/Mohanalavala/HealthApp/commits/master?after=babd4845fe7a23f39d7395fafeaae0b9e09365b2+69&branch=master
+
 
 
 

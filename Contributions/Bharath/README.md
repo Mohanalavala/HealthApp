@@ -36,7 +36,7 @@ Worth 200 points
 <td>08/28/2020</td>
 <td>Followed</td>
 <td> </td>
-<td>Checked Equipment for presentation</td>
+<td>One of our teammate checked the equipment for upcoming presentation</td>
 </tr>
 </table>
 

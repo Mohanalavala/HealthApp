@@ -58,7 +58,7 @@ The main purpose of this health app is to keep track on the user health history 
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Challenges.png?raw=true) 
 
 ### Admin Login  
-![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.png?raw=true) 
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20login.jpeg?raw=true) 
 
 ### Admin Home  
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  

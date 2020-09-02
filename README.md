@@ -63,7 +63,6 @@ The main purpose of this health app is to keep track on the user health history 
 ### Admin Home  
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  
 
- 
 ## User Roles
 1. As a user, I'll create my profile in the app.    
 1. As a user, I want to login to the app. 

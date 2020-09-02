@@ -68,7 +68,7 @@ The main purpose of this health app is to keep track on the user health history 
 1. As a user, I'll create my profile in the app.    
 1. As a user, I want to login to the app. 
 1. As a user, if I forget the password I can create new password by clicking on "Forget Password".  
-1. As a User, I can modify my personal Information by clicking on "ME"
+1. As a User, I can modify my personal Information by clicking on "ME".
 1. As a User, I can create my own challenges or can join the existing challenge.  
 1. As a User, I can view data from the previous challenges.
 1. As a admin, I can manage users and challenges.

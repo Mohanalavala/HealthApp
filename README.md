@@ -12,7 +12,7 @@ The main purpose of this health app is to keep track on the user health history 
 
 ## Cost Estimation
 
-![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimation.png?raw=true)
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimationUpdated.png?raw=true)
 
 ## Schedule
 

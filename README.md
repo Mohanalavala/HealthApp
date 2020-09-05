@@ -64,27 +64,27 @@ The main purpose of this health app is to keep track on the user health history 
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Admin%20Home.png?raw=true)  
 
 ## User Roles
-1. As a user, I want to create my profile in the app. 
-Acceptance Criteria:
+1. As a user, I want to create my profile in the app.  
+Acceptance Criteria:  
 User must enter his details first and last name,weight,height,gender,age and should have email, password. All these details saved to the  registration database
-2. As a user, I want to login to the app. 
-Acceptance Criteria:
+2. As a user, I want to login to the app.   
+Acceptance Criteria:  
 If user already created profile then user can login to the app with email and password
-3. As a user, if I forget the password I can create new password by clicking on "Forget Password". 
-Acceptance Criteria:
+3. As a user, if I forget the password I can create new password by clicking on "Forget Password".  
+Acceptance Criteria:  
 If user forget password then user can retrieve password from database through email.
-4. As a User, I can modify my personal Information by clicking on "ME".
-Acceptance Criteria:
+4. As a User, I can modify my personal Information by clicking on "ME".  
+Acceptance Criteria:  
 User can modify personal information in the app and automatically data updates to the database
-5. As a User, I can create my own challenges or can join the existing challenge.
-Acceptance Criteria:
+5. As a User, I can create my own challenges or can join the existing challenge.  
+Acceptance Criteria:  
 User can create challenges or can join the existing challenge. Once user create challenge, the challenge data
 saved to the database.
-6. As a User, I can view data from the previous challenges.
-Acceptance Criteria:
+6. As a User, I can view data from the previous challenges.  
+Acceptance Criteria:  
 User can view previous challenges from database
-7. As a admin, I can manage users and challenges.
-Acceptance Criteria:
+7. As a admin, I can manage users and challenges.  
+Acceptance Criteria:  
 Admin can manage users and challenges through database.
 
 ## ER Diagram for Health App

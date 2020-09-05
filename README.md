@@ -43,7 +43,7 @@ The main purpose of this health app is to keep track on the user health history 
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/User%20login.jpeg?raw=true)  
 
 ### Home   
-![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Home.png?raw=true)  
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Updated%20steps%20.png)  
 
 ### Daily Count  
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Proposed%20Screens/Daily%20count.png?raw=true)   

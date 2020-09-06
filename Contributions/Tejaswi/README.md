@@ -100,11 +100,11 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-- Meeting 1 on 08/31/2020 over Zoom for 60min
-- Gathered requirements from the client and distributed work among team for project presentation.
-- Jira tasks assigned by Mohan.
-- Screens design by Bharath.
-- PPT by Tejaswi.
+- On the first Half-day, We team members joined a zoom meeting and discussed about project presentation.
+- I started working on the tasks assigned to me by one of my team member.
+- As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
+- I started workin on PPT for client presentation and i have started my commits.
+
 
 
 

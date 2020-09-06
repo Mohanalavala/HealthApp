@@ -1,6 +1,7 @@
 # Module1 - Individual 1  
 
 ## Attendance
+- Worth 200 points
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Date of class attended</th>	

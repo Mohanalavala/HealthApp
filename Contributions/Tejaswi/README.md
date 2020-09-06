@@ -70,6 +70,31 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - Link for updated changes: https://github.com/Mohanalavala/HealthApp/commit/0d473956c07cd70eb7bdae6fe37ced9d5e5a4a6c
 - Tejaswi's Total Commits for Project Proposal,Project Review and Individual Module. [Commits](https://github.com/Mohanalavala/HealthApp/commits?author=Teju2404)
 
+# Module1 - Individual 2
+
+## Attendance
+<table style="width:100%;border: 1px solid black;">
+<tr>
+<th>Date of class attended</th>	
+<th>Mode of class attended</th>
+<th>No of hours</th>
+</tr>
+<tr>
+<td>08/31/2020</td>
+<td>We followed videos</td>
+<td>4 hours</td>
+</tr>
+<tr>
+<td>09/02/2020</td>
+<td>In-person</td>
+<td> 4 hours</td>  
+</tr>
+<tr>
+<td>09/04/2020</td>
+<td>Zoom Session</td>
+<td> 4 hours</td>
+</tr>
+</table>
 
 
 

@@ -101,7 +101,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - On the first Half-day, We team members joined a zoom meeting and discussed about project presentation.
-- I started working on the tasks assigned to me by one of my team member.[JIRA](https://health-wellness.atlassian.net/jira/software/projects/HA/boards/2?selectedIssue=HA-5)
+- I started working on the tasks assigned to me by one of my team member.
 - As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
 - I started working on PPT for client presentation and started my commits.
 
@@ -113,6 +113,15 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 - I noted client feedback.We team members joined a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
 - As a team, we discussed about setting up acceptance criteria after getting comments from Dr.badami.
 - I have updated wellness minutes and started my commits.
+
+## Half Day 3
+
+Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+
+- On the third Half-day, we team members joined a zoom meeting and discussed about changes in metric systems based on the comments by client.
+- we discussed user stories and updated by one of my team member.
+- we collected sample data for user entity,admin entity,exercise entity,challenges entity and updated by one of my team member.
+- In the comments posted by Dr. Badami, I have updated meetings using a new commit.
 
 
 

@@ -1,6 +1,7 @@
 # Module1 - Individual 1  
 
 ## Attendance
+- Worth 200 points
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Date of class attended</th>	
@@ -69,9 +70,4 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - Updated the changes as per comments mentioned.  
 - Link for updated changes: https://github.com/Mohanalavala/HealthApp/commit/0d473956c07cd70eb7bdae6fe37ced9d5e5a4a6c
 - Tejaswi's Total Commits for Project Proposal,Project Review and Individual Module. [Commits](https://github.com/Mohanalavala/HealthApp/commits?author=Teju2404)
-
-
-
-
-
 

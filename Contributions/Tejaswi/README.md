@@ -105,6 +105,18 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
 - I started workin on PPT for client presentation and i have started my commits.
 
+## Half Day 2
+
+Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+
+- On the second Half-day,We had a client presentation.One of my team members presented PPT.
+- I noted client feedback.We team members joined a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
+- As a team, we discussed about setting up acceptance criteria after getting comments from Dr.badami.
+- I updated the wellness minutes and i have started my commits.
+
+
+
+
 
 
 

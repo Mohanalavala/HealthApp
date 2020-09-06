@@ -34,8 +34,8 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - I started working on the tasks assigned to me by one of my team member.
 - As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
 - I started working on PPT for client presentation and started my commits.
-- https://github.com/Mohanalavala/HealthApp/commit/ae5db23e174234912fff67b0145c4c744293eb82
-- ![JIRA](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/JIRA.PNG)
+- https://github.com/Mohanalavala/HealthApp/commit/ae5db23e174234912fff67b0145c4c744293eb82  
+  ![JIRA](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/JIRA.PNG)
 
 ## Half Day 2
 

@@ -45,3 +45,17 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 - I have sent a client thankyou email for our client, regarding there presence during our presentation.
 ![Clientthankyou](https://github.com/Mohanalavala/HealthApp/blob/master/Client_thankyou_mail.PNG)
 - I have sent our ppt attached email to our client.
+- Updated admin login in markdown, i.e, removed northwest logo on the screen as client suggested to remove it.
+- https://github.com/Mohanalavala/HealthApp/commit/fcba33a6daad85c1a83bbe30f35773be11d4781c
+
+## Half Day 3
+
+Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+
+- On half day3, we as a team joined zoom session and discussed about the feedback given by the client. And started working on the changes needed to be done.  
+- One of our team member updated meetings as posted by Dr. Badami.
+- We hae discussed about user stories and it is updated by one our team member.
+- I have updated user login screen in ppt and in markdown.
+- https://github.com/Mohanalavala/HealthApp/commit/1cb275a4c0e0e6bc5f45aa26d8789856a745aebd
+- https://github.com/Mohanalavala/HealthApp/commit/6e3187d4994f1790f6efbb649fedfd3095d7b209
+- https://github.com/Mohanalavala/HealthApp/commit/2fa2d2a35cfd197f9f89f855a0daa60456e02afd

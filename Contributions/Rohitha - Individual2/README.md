@@ -35,3 +35,13 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - I have helped one of my team member to gather information regarding working on the ppt.
 - One of team memeber assigned some tasks to me in Jira.I have started working on it.
  ![JIRA](https://github.com/Mohanalavala/HealthApp/blob/master/jira1.PNG)
+
+## Half Day 2
+
+Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+
+- On Half day2, one of our team member presented our project in front of our client and Dr.Badami.
+- I have noted some points as feedback given by our client.
+- I have sent a client thankyou email for our client, regarding there presence during our presentation.
+![Clientthankyou](https://github.com/Mohanalavala/HealthApp/blob/master/Client_thankyou_mail.PNG)
+- I have sent our ppt attached email to our client.

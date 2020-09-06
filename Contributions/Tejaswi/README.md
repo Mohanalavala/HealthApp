@@ -123,7 +123,9 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 - we collected sample data for user entity,admin entity,exercise entity,challenges entity and updated by one of my team member.
 - In the comments posted by Dr. Badami, I have updated meetings using a new commit.
 
+## Meetings
 
+- Meetings and discussions in our team are updated here.[Meetings](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/meetings)
 
 
 

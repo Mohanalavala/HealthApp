@@ -101,6 +101,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - On the first Half-day, We team members joined a zoom meeting and discussed about project presentation.
+- Link for repository: https://github.com/Mohanalavala/HealthApp
 - I started working on the tasks assigned to me by one of my team member.
 - As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
 - I started working on PPT for client presentation and started my commits.

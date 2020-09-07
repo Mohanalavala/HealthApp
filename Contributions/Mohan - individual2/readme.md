@@ -31,11 +31,18 @@ Class Dates Mode Of Attendance
 - I have noted the feedback given by the client.
 - We team members joined a zoom meeting and discussed about the feedback given by the client.
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG?raw=true)
+- Assigned task to Bharath Kumar and worked with to accomplish the task.
+- https://github.com/Mohanalavala/HealthApp/commit/b1d5739047d7378f7223cde9e6bb66ea899d822e 
+
+- https://github.com/Mohanalavala/HealthApp/commit/45e4873cbc8def2629dd639896ff8ebfceefe08d 
 
 ## Half Day 3
 
 - Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
 
 - On the third Half-day, we team members joined a zoom meeting and had a discussion on changes in metric systems based on the comments by client.
+
 - We as a team,worked on comments given by the client.
+
 - I have created acceptance criteria and assigned to Harish.
+- https://github.com/Mohanalavala/HealthApp/commit/020d98dd4ec0bd2c867964edc36bef40bcc021b8

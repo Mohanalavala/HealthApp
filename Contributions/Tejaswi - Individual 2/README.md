@@ -42,7 +42,10 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the second Half-day,We had a client presentation.One of my team member presented PPT.
-- I noted client feedback.We team members joined a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
+- I noted client feedback.I created a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
+- ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG)
+- Commit Link for Zoom meeting snapsot.
+- https://github.com/Mohanalavala/HealthApp/commit/b365b9aec061db0b890c09f83d2acd5c99089c7e
 - As a team, we discussed about setting up acceptance criteria after getting comments from Dr.Badami.
 - I have updated meeting time and started my commits.
 - https://github.com/Mohanalavala/HealthApp/commit/c897382f322f21a37296943ab3e7533224303822

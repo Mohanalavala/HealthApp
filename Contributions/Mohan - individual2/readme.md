@@ -38,4 +38,4 @@ Class Dates Mode Of Attendance
 
 - On the third Half-day, we team members joined a zoom meeting and had a discussion on changes in metric systems based on the comments by client.
 - We as a team,worked on comments given by the client.
-- One of my team member worked on acceptance criteria.
+- I have created acceptance criteria and assigned to Harish.

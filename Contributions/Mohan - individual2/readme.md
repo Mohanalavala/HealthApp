@@ -6,7 +6,7 @@ Class Dates Mode Of Attendance
 09/02/2020  In-person
 09/04/2020  Zoom Session
 
-Half Day 1
+## Half Day 1
 
 - Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
@@ -17,7 +17,7 @@ Half Day 1
 
 - Discussed on how to work on PPT for presentation.One of my team member worked on PPT.
 
-Half Day 2 
+## Half Day 2 
 
 - Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
@@ -25,7 +25,7 @@ Half Day 2
 - I have noted the feedback given by the client.
 - We team members joined a zoom meeting and discussed about the feedback given by the client.
 
-Half Day 3
+## Half Day 3
 
 - Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
 

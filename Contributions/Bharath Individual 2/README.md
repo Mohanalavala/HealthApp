@@ -51,3 +51,29 @@ Our team had a client meeting at 10:11 pm on 09/02/2020.My team lead Mohan Krish
 A zoom meeting was held where we discussed about the client response on our presentation and thankyou mail for our client which was sent by our team mate Rohitha reddy.
 
 - https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG
+
+ 
+
+I started working on the metric systems and also changing the design of some UI screens.
+
+- https://github.com/Mohanalavala/HealthApp/commit/b1d5739047d7378f7223cde9e6bb66ea899d822e 
+
+- https://github.com/Mohanalavala/HealthApp/commit/45e4873cbc8def2629dd639896ff8ebfceefe08d 
+ 
+
+## Half day 3:
+Time allotted 4 hours: 1hour in class + 3hours worked on own = Worth 300 points
+
+We had a zoom meeting to discuss about the client feedback, Jira links, metric systems, acceptance criteria and design of the UI screens.
+
+I continued working on the other UI screens and committed the work to github.
+
+- https://github.com/Mohanalavala/HealthApp/commit/ec1d090576cc0ebe8b594c1b0a075a783bdd090c 
+
+- https://github.com/Mohanalavala/HealthApp/commit/7ca23fff98fbfdb10149abbc3b5a39cfc4647853 
+
+## Meetings:
+
+Meetings and discussions in our team are updated here.
+
+https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/meetings

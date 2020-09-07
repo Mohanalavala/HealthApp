@@ -46,3 +46,7 @@ Class Dates Mode Of Attendance
 
 - I have created acceptance criteria and assigned to Harish.
 - https://github.com/Mohanalavala/HealthApp/commit/020d98dd4ec0bd2c867964edc36bef40bcc021b8
+
+## Meetings
+
+- Meetings and discussions in our team are updated here.[Meetings](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/meetings)

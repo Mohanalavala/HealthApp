@@ -47,7 +47,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - Commit Link for Zoom meeting snapsot.
 - https://github.com/Mohanalavala/HealthApp/commit/b365b9aec061db0b890c09f83d2acd5c99089c7e
 - As a team, we discussed about setting up acceptance criteria after getting comments from Dr.Badami.
-- I have updated meeting time and started my commits.
+- I have updated Meditation time and started my commits.
 - https://github.com/Mohanalavala/HealthApp/commit/c897382f322f21a37296943ab3e7533224303822
 
 

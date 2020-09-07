@@ -1,10 +1,13 @@
-Atttendance(200 Points)
+## Atttendance(200 Points)
 
 Class Dates Mode Of Attendance
 
-08/31/2020  We followed videos
-09/02/2020  In-person
-09/04/2020  Zoom Session
+08/31/2020  We followed videos  
+
+09/02/2020  In-person  
+
+09/04/2020  Zoom Session  
+
 
 ## Half Day 1
 

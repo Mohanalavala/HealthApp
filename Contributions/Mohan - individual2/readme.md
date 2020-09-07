@@ -30,6 +30,7 @@ Class Dates Mode Of Attendance
 - On the second half-day,i presented the ppt and shared the ideas on details of application of health infront of our client and Dr.Badami.
 - I have noted the feedback given by the client.
 - We team members joined a zoom meeting and discussed about the feedback given by the client.
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG?raw=true)
 
 ## Half Day 3
 

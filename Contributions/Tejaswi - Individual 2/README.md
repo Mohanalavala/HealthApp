@@ -28,7 +28,7 @@
 
 ## Half Day 1  
 
-Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the first Half-day,We team members joined a zoom meeting and discussed about project presentation.
 - As a team, we discussed a few ideas apart from the client requirements which makes our application more flexible.
@@ -39,7 +39,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 ## Half Day 2
 
-Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the second Half-day,We had a client presentation.One of my team member presented PPT.
 - I noted client feedback.We team members joined a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
@@ -50,7 +50,7 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 
 ## Half Day 3
 
-Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 points
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the third Half-day, we team members joined a zoom meeting and discussed about changes in metric systems based on the comments by client.
 - we discussed user stories and updated by one of my team member.

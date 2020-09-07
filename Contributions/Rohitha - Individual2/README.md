@@ -47,6 +47,8 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 - I have sent our ppt attached email to our client.
 - Updated admin login in markdown, i.e, removed northwest logo on the screen as client suggested to remove it.
 - https://github.com/Mohanalavala/HealthApp/commit/fcba33a6daad85c1a83bbe30f35773be11d4781c
+- We have scheduled a zoom meeting
+![zoom](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG)
 
 ## Half Day 3
 

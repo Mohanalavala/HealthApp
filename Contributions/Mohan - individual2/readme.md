@@ -2,11 +2,11 @@
 
 Class Dates Mode Of Attendance
 
-08/31/2020  We followed videos  
+- 08/31/2020  We followed videos  
 
-09/02/2020  In-person  
+- 09/02/2020  In-person  
 
-09/04/2020  Zoom Session  
+- 09/04/2020  Zoom Session  
 
 
 ## Half Day 1
@@ -19,6 +19,9 @@ Class Dates Mode Of Attendance
 ![image](https://github.com/Mohanalavala/HealthApp/blob/master/JiraDashBoard%20(2).png?raw=true)
 
 - Discussed on how to work on PPT for presentation.One of my team member worked on PPT.
+
+- Me and Tejaswi Reddy Kandula worked on PPT.
+- https://github.com/Mohanalavala/HealthApp/commit/ae5db23e174234912fff67b0145c4c744293eb82
 
 ## Half Day 2 
 

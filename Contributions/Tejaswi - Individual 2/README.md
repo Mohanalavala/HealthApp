@@ -43,7 +43,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 - On the second Half-day,We had a client presentation.One of my team member presented PPT.
 - I noted client feedback.I created a zoom meeting and discussed about requirement of metric system in screens based on feedback given by client.
-- ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG)
+  ![image](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG)
 - Commit Link for Zoom meeting snapsot.
 - https://github.com/Mohanalavala/HealthApp/commit/b365b9aec061db0b890c09f83d2acd5c99089c7e
 - As a team, we discussed about setting up acceptance criteria after getting comments from Dr.Badami.

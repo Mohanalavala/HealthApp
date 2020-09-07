@@ -38,7 +38,7 @@ We also discussed on how to assure the client that we had all the requirements.
 
 We also had a sample presentation session.I made some changes and gathered the UI screens, which are required to be in ppt.
 
-https://github.com/Mohanalavala/HealthApp/commit/ae5db23e174234912fff67b0145c4c744293eb82
+- https://github.com/Mohanalavala/HealthApp/commit/ae5db23e174234912fff67b0145c4c744293eb82
 
 I was assigned a task in Jira software by our team lead and completed the task of collecting sample data for user entity, admin entity, exercise entity, challenges entity.
 
@@ -50,4 +50,4 @@ Our team had a client meeting at 10:11 pm on 09/02/2020.My team lead Mohan Krish
 
 A zoom meeting was held where we discussed about the client response on our presentation and thankyou mail for our client which was sent by our team mate Rohitha reddy.
 
-https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG
+- https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG

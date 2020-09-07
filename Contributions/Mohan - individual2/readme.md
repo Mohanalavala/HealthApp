@@ -11,6 +11,9 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 - On the first Half-day, We team members joined a zoom meeting and discussed about project presentation.
 - I have assigned tasks in jira and my team members worked on it.
+
+![image](https://github.com/Mohanalavala/HealthApp/blob/master/CostEstimationUpdated.png?raw=true)
+
 - Discussed on how to work on PPT for presentation.One of my team member worked on PPT.
 
 Half Day 2 

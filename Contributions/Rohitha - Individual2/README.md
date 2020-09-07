@@ -59,6 +59,8 @@ Time allocated : 4hours = 1hour in class + 3 hours out of the class = Worth 300 
 - https://github.com/Mohanalavala/HealthApp/commit/1cb275a4c0e0e6bc5f45aa26d8789856a745aebd
 - https://github.com/Mohanalavala/HealthApp/commit/6e3187d4994f1790f6efbb649fedfd3095d7b209
 - https://github.com/Mohanalavala/HealthApp/commit/2fa2d2a35cfd197f9f89f855a0daa60456e02afd
+- Added all PPT Slides to .md file and resubmitted the assignment
+- https://github.com/Mohanalavala/HealthApp/commit/4e5bb8967f869e63f6b64cb33f473673cf0dea49
 
 ## Meetings
 

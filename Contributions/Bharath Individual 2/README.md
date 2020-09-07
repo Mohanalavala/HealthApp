@@ -49,8 +49,7 @@ Time allotted 4 hours: 1hour in class + 3hours worked on own = Worth 300 points
 Our team had a client meeting at 10:11 pm on 09/02/2020.My team lead Mohan Krishna Alavala presented the ppt.
 
 A zoom meeting was held where we discussed about the client response on our presentation and thankyou mail for our client which was sent by our team mate Rohitha reddy.
-
-- https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG
+- ![zoom](https://github.com/Mohanalavala/HealthApp/blob/master/Contributions/Zoom%20meeting.PNG)
 
  
 

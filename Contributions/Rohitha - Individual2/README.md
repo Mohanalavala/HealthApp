@@ -10,17 +10,17 @@
 <th>No of hours</th>
 </tr>
 <tr>
-<td>08/31/2020</td>
-<td>Followed videos</td>
+<td>09/07/2020d>
+<td>paid leave</td>
 <td>4 hours</td>
 </tr>
 <tr>
-<td>09/02/2020</td>
+<td>09/092020</td>
 <td>In-person</td>
 <td> 4 hours</td>  
 </tr>
 <tr>
-<td>09/04/2020</td>
+<td>09/11/2020td>
 <td>Joined Zoom Session</td>
 <td> 4 hours</td>
 </tr>
